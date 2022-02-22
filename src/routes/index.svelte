@@ -8,7 +8,7 @@
 		Repellendus cupiditate aliquid quam magni. Laudantium, laboriosam quibusdam. Provident, quae
 		incidunt! Aspernatur, vel?
 	</p>
-	<a sveltekit:prefetch href="/guides">View Guides</a>
+	<a href="/guides">View Guides</a>
 	<a href="/about">About</a>
 </div>
 
